@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Websimple:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Websimple_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Websimple/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Websimple" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
